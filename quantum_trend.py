@@ -2,7 +2,6 @@ import yfinance as yf
 import pennylane as qml
 from pennylane import numpy as np
 
-# 1. GET THE DATA
 print("Downloading Apple Stock data...")
 df = yf.download("AAPL", period="1mo", interval="1d", auto_adjust=True)
 
