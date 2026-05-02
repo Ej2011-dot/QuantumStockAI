@@ -1,4 +1,4 @@
-# QuantumTrader — Quantum Neural Network Stock Predictor
+# QuantumTrader Quantum Neural Network Stock Predictor
 
 A full quantum machine learning pipeline combining:
 - **Variational Quantum Circuit (VQC)** — the "neural network" with trainable parameters
